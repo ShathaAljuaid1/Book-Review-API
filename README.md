@@ -5,7 +5,7 @@ using Django REST Framework and Token Authentication for user authentication.
 ## How to run the project locally:
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ShathaAljuaid1/bookreview.git
+git clone https://github.com/ShathaAljuaid1/Book-Review-API.git
 cd bookreview 
 ```
 ### 2. Create and Activate a Virtual Environment
